@@ -2,7 +2,6 @@
 - 👀 I’m interested in frontend and backend
 - 🌱 I’m currently learning Javascript and PHP
 - 💞️ I’m looking to collaborate on Website developing
-- 📫 You can reach me at areprobotic@gmail.com
 - 🔍 Right now,i'm looking for your help to teach me about css,js,react,node,etc.
 
 <!---
