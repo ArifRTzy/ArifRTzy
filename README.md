@@ -1,2 +1,2 @@
 <h1 align="center">hiii</h1>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ArifRTzy)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ArifRTzy&theme=radical&hide_border=true)
